@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 230" role="img" aria-labelledby="title desc">
+  <title id="title">Proposed five-step AI incident response</title>
+  <desc id="desc">Stop and contain, report promptly, preserve facts, follow authorized assessment, then learn and close.</desc>
+  <rect width="1000" height="230" rx="22" fill="#fff7ef"/>
+  <g font-family="Segoe UI,Arial,sans-serif" text-anchor="middle" font-weight="700">
+    <g fill="#7a3f23"><rect x="18" y="55" width="170" height="120" rx="16"/><rect x="216" y="55" width="170" height="120" rx="16"/><rect x="414" y="55" width="170" height="120" rx="16"/><rect x="612" y="55" width="170" height="120" rx="16"/><rect x="810" y="55" width="170" height="120" rx="16"/></g>
+    <g fill="white" font-size="21"><text x="103" y="108">1 · Stop</text><text x="103" y="137">and contain</text><text x="301" y="108">2 · Report</text><text x="301" y="137">promptly</text><text x="499" y="108">3 · Preserve</text><text x="499" y="137">facts</text><text x="697" y="108">4 · Follow</text><text x="697" y="137">direction</text><text x="895" y="108">5 · Learn</text><text x="895" y="137">and close</text></g>
+    <g fill="#d68035" font-size="29"><text x="202" y="126">›</text><text x="400" y="126">›</text><text x="598" y="126">›</text><text x="796" y="126">›</text></g>
+  </g>
+</svg>

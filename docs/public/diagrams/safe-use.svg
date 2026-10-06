@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 240" role="img" aria-labelledby="title desc">
+  <title id="title">Three checks for safe AI use</title>
+  <desc id="desc">Classify the data, confirm the approved tool and purpose, then review the output before use.</desc>
+  <rect width="900" height="240" rx="24" fill="#f2f8fa"/>
+  <g font-family="Segoe UI,Arial,sans-serif" text-anchor="middle">
+    <g><rect x="24" y="38" width="252" height="164" rx="18" fill="#0b2a43"/><circle cx="150" cy="86" r="26" fill="#0f8c92"/><text x="150" y="94" fill="white" font-size="22" font-weight="700">1</text><text x="150" y="136" fill="white" font-size="25" font-weight="700">Classify</text><text x="150" y="168" fill="#d5e4ea" font-size="17">What data is present?</text></g>
+    <text x="301" y="132" fill="#087b83" font-size="38" font-weight="700">›</text>
+    <g><rect x="324" y="38" width="252" height="164" rx="18" fill="#0b2a43"/><circle cx="450" cy="86" r="26" fill="#0f8c92"/><text x="450" y="94" fill="white" font-size="22" font-weight="700">2</text><text x="450" y="136" fill="white" font-size="25" font-weight="700">Confirm</text><text x="450" y="168" fill="#d5e4ea" font-size="17">Is this workflow allowed?</text></g>
+    <text x="601" y="132" fill="#087b83" font-size="38" font-weight="700">›</text>
+    <g><rect x="624" y="38" width="252" height="164" rx="18" fill="#0b2a43"/><circle cx="750" cy="86" r="26" fill="#0f8c92"/><text x="750" y="94" fill="white" font-size="22" font-weight="700">3</text><text x="750" y="136" fill="white" font-size="25" font-weight="700">Review</text><text x="750" y="168" fill="#d5e4ea" font-size="17">Are facts and sharing right?</text></g>
+  </g>
+</svg>

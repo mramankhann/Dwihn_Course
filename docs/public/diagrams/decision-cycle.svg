@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 230" role="img" aria-labelledby="title desc">
+  <title id="title">Evidence to action cycle</title>
+  <desc id="desc">Frame the decision, check evidence, test alternatives, act with an owner, and measure the result.</desc>
+  <rect width="1000" height="230" rx="22" fill="#f2f8fa"/>
+  <g font-family="Segoe UI,Arial,sans-serif" text-anchor="middle" font-weight="700">
+    <g fill="#0b2a43">
+      <rect x="18" y="55" width="170" height="120" rx="16"/><rect x="216" y="55" width="170" height="120" rx="16"/><rect x="414" y="55" width="170" height="120" rx="16"/><rect x="612" y="55" width="170" height="120" rx="16"/><rect x="810" y="55" width="170" height="120" rx="16"/>
+    </g>
+    <g fill="white" font-size="21"><text x="103" y="108">Frame</text><text x="103" y="137">decision</text><text x="301" y="108">Check</text><text x="301" y="137">evidence</text><text x="499" y="108">Test</text><text x="499" y="137">alternatives</text><text x="697" y="108">Act with</text><text x="697" y="137">owner</text><text x="895" y="108">Measure</text><text x="895" y="137">result</text></g>
+    <g fill="#0f8c92" font-size="29"><text x="202" y="126">›</text><text x="400" y="126">›</text><text x="598" y="126">›</text><text x="796" y="126">›</text></g>
+  </g>
+</svg>
